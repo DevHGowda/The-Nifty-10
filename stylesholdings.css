@@ -1,0 +1,105 @@
+.top {
+  background-color: #FAEAB1;
+  padding: 100px;
+  position: relative;
+  text-align: right;
+
+}
+.bottom{
+  background-color: #C58940;
+  margin: 0px auto;
+  padding: 50px 0px 20px;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+body{
+margin: 0px;
+}
+h1 {
+  color: #C58940;
+  text-align: left;
+  font-size: 90px;
+  width: 30%;
+  line-height: 1;
+  margin: 50px 90px 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+a{
+  color: #FEBE8C;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+h2 {
+  color: #C58940;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  padding: 30px;
+  padding-right: 60px;
+  text-align: right;
+}
+h3{
+  color: #FEBE8C;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.middle{
+  text-align: center;
+
+
+}
+.moneygrowth{
+  position: absolute;
+  width: 40%;
+  height: 80%;
+  left: 20px;
+  top: 70px;
+}
+
+.btn {
+  position: static;
+  background: #ADE792;
+  background-image: -webkit-linear-gradient(top, #ADE792, #ADE792);
+  background-image: -moz-linear-gradient(top, #ADE792, #ADE792);
+  background-image: -ms-linear-gradient(top, #ADE792, #ADE792);
+  background-image: -o-linear-gradient(top, #ADE792, #ADE792);
+  background-image: linear-gradient(to bottom, #ADE792, #ADE792);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  position: relative;
+}
+.btn:hover {
+  background: #55715;
+  background-image: -webkit-linear-gradient(top, #557153, #557153);
+  background-image: -moz-linear-gradient(top, #557153, #557153);
+  background-image: -ms-linear-gradient(top, #557153, #557153);
+  background-image: -o-linear-gradient(top, #557153, #557153);
+  background-image: linear-gradient(to bottom, #557153, #557153);
+  /* color: #251B37; */
+  text-decoration: none;
+}
+
+form{
+  padding: 6px;
+   margin-top: 0px;
+  position: absolute;
+}
+
+.middle{
+  background-color: #FAEAB1;
+  padding: 60px;
+  position: relative;
+  /*text-align: center;*/
+}
